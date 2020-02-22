@@ -14,5 +14,7 @@ def age_appropriate_birthday(birthday_kids)
       puts happy_birthday
     end
 end    
+happy_birthday
+end
 
 
