@@ -13,6 +13,7 @@ def age_appropriate_birthday(birthday_kids)
     if age <= 12
       puts happy_birthday
     end
+  end  
 end    
 
 
